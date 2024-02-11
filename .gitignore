@@ -3,3 +3,13 @@
 
 # File List
 filelist.txt
+
+# OS files
+.DS_Store
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
